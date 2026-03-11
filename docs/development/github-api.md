@@ -1,8 +1,8 @@
-# GitHub API Usage
+# Nutzung der GitHub-API
 
-Diesen Projekt verwendet die GitHub-API, um Issues zu analysieren und exportieren.
+Dieses Projekt verwendet die GitHub-API, um Issues zu analysieren und zu exportieren.
 
-Dadurch können wir Entwicklungsprozessdaten direkt in den LaTex-Bereich für die Diplomarbeit integrieren.
+Dadurch können wir Daten zum Entwicklungsprozess direkt in den LaTeX-Teil der Diplomarbeit integrieren.
 
-Documentation:
+Dokumentation:
 https://docs.github.com/en/rest
